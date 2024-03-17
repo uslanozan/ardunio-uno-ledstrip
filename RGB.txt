@@ -1,0 +1,22 @@
+void change_color(int red,int green,int blue) { 
+	R   G   B
+       -----------
+	190 22 22 	Kırmızı   
+	190 190 22	Sarı
+	22 190 22	Yeşil
+	22 190 190	Turkuaz
+	22 22 190	Lacivert
+	190 22 190	Mor
+
+	190 22 22	Kırmızı
+
+	5 adım
+	green red'e kadar artıcak
+	red blue'ya kadar azalıcak
+	blue green'e kadar artıcak
+	green red'e kadar azalıcak
+	red blue'ya kadar artıcak
+
+	eğer 60 90 120 ise 120 60 60 olması lazım
+	
+}
